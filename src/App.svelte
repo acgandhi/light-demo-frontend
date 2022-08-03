@@ -101,7 +101,7 @@
 
 
 <main>
-    <div class="container text-start">
+    <div class="container text-start pt-2">
         <div class="text-start">
             <p class="fs-1">Amar's light-weight demo</p>
             <p>This is a demo of a couple services being run out of a Kubernetes homelab. 
@@ -135,7 +135,7 @@
         <div class="text-center p-2">
             <div class="iframe-container">
                 <!-- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/live_stream?channel=UC9euycJrHIDfFuXwQpHbOAA&autoplay=1" title="LightCam stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                <iframe class="responsive-iframe" src="https://player.twitch.tv/?channel=weeeee12345&parent=localhost" frameborder="0" allowfullscreen="true" scrolling="no" ></iframe>
+                <iframe class="responsive-iframe" src="https://player.twitch.tv/?channel=weeeee12345&parent=light.acgandhi.com" frameborder="0" allowfullscreen="true" scrolling="no" ></iframe>
             </div>
         </div>
         <h5>Check out <a href="https://homelab.acgandhi.com">my blog</a> for how I set this up!</h5>
