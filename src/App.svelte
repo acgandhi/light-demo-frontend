@@ -139,6 +139,8 @@
             </div>
         </div>
         <h5>Check out <a href="https://homelab.acgandhi.com">my blog</a> for how I set this up!</h5>
+        <p>Here's a diagram explaining the whole system:</p>
+        <img src="./images/system-diagram.svg" width="100%" class="px-2" alt="Demo system diagram"/>
     </div>
 </main>
 
